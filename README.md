@@ -159,8 +159,8 @@
     <img src="https://github-readme-stats-phi-beige-43.vercel.app/api/pin/?username=SweetLove1643&repo=DirectDetection&theme=dark" />
   </a>
 
-  <a href="https://github.com/DangCuuDuong/Hackathon2025">
-    <img src="https://github-readme-stats-phi-beige-43.vercel.app/api/pin/?username=SweetLove1643&repo=Fridgey&theme=dark" />
+  <a href="https://github.com/SweetLove1643/HotelManagerSystem">
+    <img src="https://github-readme-stats-phi-beige-43.vercel.app/api/pin/?username=SweetLove1643&repo=HotelManagerSystem&theme=dark" />
   </a>
 </p>
 
