@@ -102,6 +102,7 @@
   </picture>
 </p>
 
+<!----- Contribution Streak ------>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Contribution Stats :
 
 <div>
@@ -114,32 +115,29 @@
 
 <hr style="height:2px;border-width:1;border-radius:5px;color:#8080ff;background-color:#8080ff">
 
-<!-------------Projects---------------->
+<!----- Repository Overview ------>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Repository Overview :
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+Repository Overview :
 
-<a href="https://github.com/SweetLove1643/Playing-TRex-game-using-facial-recognition">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/pin/?username=SweetLove1643&repo=TRex-game-using-facial-recognition&theme=dark" />
+<a href="https://github.com/SweetLove1643/CabinTranslate">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SweetLove1643&repo=CabinTranslate&theme=dark" />
 </a>
 
-<a href="https://github.com/SweetLove1643/Discbot_ai">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/pin/?username=SweetLove1643&repo=Discbot_ai&theme=dark" />
+<a href="https://github.com/SweetLove1643/DirectDetection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SweetLove1643&repo=DirectDetection&theme=dark" />
 </a>
 
-<a href="https://github.com/SweetLove1643/Face-Blurring-and-Deblurring">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/pin/?username=SweetLove1643&repo=Face-Blurring-and-Deblurring&theme=dark" />
+<a href="https://github.com/SweetLove1643/HotelManagerSystem">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SweetLove1643&repo=HotelManagerSystem&theme=dark" />
 </a>
 
-<a href="https://github.com/SweetLove1643/ML-DL-Projects">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/pin/?username=SweetLove1643&repo=ML-DL-Projects&theme=dark" />
+<a href="https://github.com/SweetLove1643/AIMiniProject">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SweetLove1643&repo=AIMiniProject&theme=dark" />
 </a>
 
-<br>
-<hr style="height:2px;border-width:0;border-radius:5px;color:gray;background-color:#8080ff">
+<hr style="height:2px;border-width:1;border-radius:5px;color:gray;background-color:#8080ff">
+
 
 
 <p align="center">
