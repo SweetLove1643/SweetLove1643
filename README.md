@@ -15,7 +15,7 @@
 - :trophy: FIRST PRIZE `HCMUTE HACKATHON 2025` 
 - :technologist: **Currently working on** `AI Engineer` **&** `Data Science`
 - :boom: You can visit [MY GITHUB](https://github.com/SweetLove1643) for some AI knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](Sweetlove:phanuan028@gmail.com)
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Sweetlove&amp;color=EA4335&amp;style=flat-square)](Sweetlove:phanuan028@gmail.com)
 - :nerd_face: Always believe `"Sports is about constantly giving up"`
 
 <!--Skills-->
