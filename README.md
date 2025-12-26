@@ -11,15 +11,20 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<!--About Me-->
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif](https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/345901089_1711193599309294_6690339194227279447_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHKqDWRYADLm3353USZGCw53Xr4RblZdbXdevhFuVl1tSJdROFn2MMyCOQ7JXMCS2KfqRkZExWEsTLMwXSigqXS&_nc_ohc=v1_rJMphv9kQ7kNvwFxE37P&_nc_oc=AdnyXeq7Nfn-bEHqqkbRjKRYaU2QITFITbdlI70MbTqvlSQBTB7xJkEwQs5a6B6gAeY&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=qrQI47zq6dnjcSVLmIeyxw&oh=00_AfJLbJ9s93HhydCbyrxsHRxyf4v9YCrPFi7q-BVLF6ymkg&oe=682FFF21" width = 250px></picture>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+
+- :school: I am a `Junior` at [School of Cyber Science and Technology](https://cst.buaa.edu.cn/) in [BUAA](https://ev.buaa.edu.cn/)
+- :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
+- :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
+- :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com)
+- :nerd_face: Always believe `"You are what you loved"`
 
 <br>
-
-- Studying at Ho Chi Minh City University of Education and Technology
-- Desire to become AI Engineer
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
 
