@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # chạy mỗi ngày
+  workflow_dispatch:      # cho phép chạy tay
 
 jobs:
   build:
@@ -15,6 +15,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
