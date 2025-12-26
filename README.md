@@ -96,18 +96,32 @@
 
 <h3 align="center" >Connect with me 🤝 </h3>
 
-<p align="center">
+<div align="center" class="icons-social" style="margin: 10px 0;">
+  <a href="https://www.linkedin.com/in/sweetlove0911/" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
+  </a>
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="https://www.linkedin.com/in/sweetlove0911/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/SweetLove1643/"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://"><img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
-		<a style="margin-left: 5px;" target="_blank" href=""><img src="https://img.icons8.com/ultraviolet/2x/resume.png" style=" width:37px; height:40px;"></a>
-	 	<a href="https://www.facebook.com/SweetLove09.11" target="_blank"><code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/facebook.svg" alt="" height="30" width="40"/></code></a>
-	 	<a href="https://www.instagram.com/phanquan028/" target="_blank"><code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/instagram.svg" alt="" height="30" width="40"/></code></a>
-      </div>
+  <a href="https://github.com/SweetLove1643/" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub">
+  </a>
 
-</p>
+  <a href="mailto:your-email@gmail.com" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.icons8.com/doodle/2x/gmail-new.png" alt="Gmail" style="width:35px; height:35px;">
+  </a>
+
+  <a href="https://your-resume-link.com" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.icons8.com/ultraviolet/2x/resume.png" alt="Resume" style="width:35px; height:35px;">
+  </a>
+
+  <a href="https://www.facebook.com/SweetLove09.11" target="_blank" style="margin: 0 8px;">
+    <img src="https://github.com/oHTGo/oHTGo/blob/main/images/facebook.svg" alt="Facebook" width="35">
+  </a>
+
+  <a href="https://www.instagram.com/phanquan028/" target="_blank" style="margin: 0 8px;">
+    <img src="https://github.com/oHTGo/oHTGo/blob/main/images/instagram.svg" alt="Instagram" width="35">
+  </a>
+</div>
+
 
 #### I'm an Early 🐤
 ```text
