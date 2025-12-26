@@ -152,20 +152,6 @@ Contribution Graph :
 
 <hr style="height:2px;border-width:1;border-radius:5px;color:#8080ff;background-color:#8080ff">
 
-<!----- Languages ------>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-Programming Languages & Tools :
-
-<p>
-<img src="https://img.icons8.com/color/48/python--v2.png"/>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_jupyter_icon_130494.png"/>
-<img src="https://img.icons8.com/color/48/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/48/css3.png"/>
-<img src="https://img.icons8.com/color/50/javascript--v1.png"/>
-</p>
-
-<hr style="height:2px;border-width:1;border-radius:5px;color:gray;background-color:#8080ff">
 
 <!--Contact me-->
 -----
