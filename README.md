@@ -12,11 +12,17 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :school: I am a `Junior` at [Ho Chi Minh City University of Education and Technology](https://hcmute.edu.vn/)
+- 📝 And I'm studying English but I'm very lazy 😅
+- 🏡 I'm living in a small city in <code>Việt Nam</code> 🇻🇳 👈 🏙️
+- ✍️ I want to study <code>code</code> and <code>how to write a program</code> 👀
 - :trophy: FIRST PRIZE `HCMUTE HACKATHON 2025` 
 - :technologist: **Currently working on** `AI Engineer` **&** `Data Science`
 - :boom: You can visit [MY GITHUB](https://github.com/SweetLove1643) for some AI knowledge
+- 💯 I'm very happy when you read my profile but I don't think my profile is professtion 🙄
+- 💬 this is the first time I create a repository so I hope you will like my profile 👍
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Sweetlove&amp;color=EA4335&amp;style=flat-square)](Sweetlove:phanuan028@gmail.com)
 - :nerd_face: Always believe `"Sports is about constantly giving up"`
+- ❤️ thank you so much for reading it ❤️
 
 <!--Skills-->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -27,9 +33,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white)
 <br>   
     
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
@@ -57,14 +63,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
-![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=OpenSSL&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 <br>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
 <br>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
@@ -105,11 +111,11 @@
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub">
   </a>
 
-  <a href="mailto:your-email@gmail.com" target="_blank" style="margin: 0 8px;">
+  <a href="mailto:phanuan028@gmail.com" target="_blank" style="margin: 0 8px;">
     <img src="https://img.icons8.com/doodle/2x/gmail-new.png" alt="Gmail" style="width:35px; height:35px;">
   </a>
 
-  <a href="https://your-resume-link.com" target="_blank" style="margin: 0 8px;">
+  <a href="https://drive.google.com/file/d/1l_eVGHHE-UjQS9IReU_w8UnKk4Og7cpO/view?usp=sharing" target="_blank" style="margin: 0 8px;">
     <img src="https://img.icons8.com/ultraviolet/2x/resume.png" alt="Resume" style="width:35px; height:35px;">
   </a>
 
@@ -130,6 +136,7 @@
 🌃 Evening    82 commits     ██████░░░░░░░░░░░░░░░░░░░   20.5% 
 🌙 Night      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.5%
 ```
+-----
 
 Credit: [Phan Van Quan](https://github.com/SweetLove1643)
 
