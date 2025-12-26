@@ -139,24 +139,23 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Repository Overview :
 
 <p align="center">
+  <a href="https://github.com/SweetLove1643/CabinTranslate">
+    <img src="https://github-readme-stats-phi-beige-43.vercel.app/api/pin/?username=SweetLove1643&repo=CabinTranslate&theme=dark" />
+  </a>
 
-<a href="https://github.com/SweetLove1643/CabinTranslate">
-  <img src="https://github-readme-stats-o9ifbbqk4-sweetlove1643s-projects.vercel.app/api/pin/?username=SweetLove1643&repo=CabinTranslate&theme=dark" />
-</a>
+  <a href="https://github.com/SweetLove1643/DirectDetection">
+    <img src="https://github-readme-stats-phi-beige-43.vercel.app/api/pin/?username=SweetLove1643&repo=DirectDetection&theme=dark" />
+  </a>
 
-<a href="https://github.com/SweetLove1643/DirectDetection">
-  <img src="https://github-readme-stats-o9ifbbqk4-sweetlove1643s-projects.vercel.app/api/pin/?username=SweetLove1643&repo=DirectDetection&theme=dark" />
-</a>
+  <a href="https://github.com/SweetLove1643/HotelManagerSystem">
+    <img src="https://github-readme-stats-phi-beige-43.vercel.app/api/pin/?username=SweetLove1643&repo=HotelManagerSystem&theme=dark" />
+  </a>
 
-<a href="https://github.com/SweetLove1643/HotelManagerSystem">
-  <img src="https://github-readme-stats-o9ifbbqk4-sweetlove1643s-projects.vercel.app/api/pin/?username=SweetLove1643&repo=HotelManagerSystem&theme=dark" />
-</a>
-
-<a href="https://github.com/SweetLove1643/AIMiniProject">
-  <img src="https://github-readme-stats-o9ifbbqk4-sweetlove1643s-projects.vercel.app/api/pin/?username=SweetLove1643&repo=AIMiniProject&theme=dark" />
-</a>
-
+  <a href="https://github.com/SweetLove1643/AIMiniProject">
+    <img src="https://github-readme-stats-phi-beige-43.vercel.app/api/pin/?username=SweetLove1643&repo=AIMiniProject&theme=dark" />
+  </a>
 </p>
+
 
 
 <hr style="height:2px;border-width:1;border-radius:5px;color:gray;background-color:#8080ff">
