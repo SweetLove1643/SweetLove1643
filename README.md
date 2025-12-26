@@ -83,31 +83,18 @@
 </p>
 
 
-<!--Git stats-->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<div align="center">
+<!-- GitHub Stats -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SweetLove1643&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SweetLove1643&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SweetLove1643&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SweetLove1643&theme=tokyonight&hide_border=true"/>
-</p>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SweetLove1643&theme=tokyo-night&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=SweetLove1643&style=flat-square&color=blue)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SweetLove1643&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SweetLove1643&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://komarev.com/ghpvc/?username=SweetLove1643&style=flat-square&color=blue"/>
 </p>
 
 
-</a>
-</div>
 
 
 <!--Contact me-->
