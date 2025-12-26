@@ -4,31 +4,20 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+you+to+my+github,;AI+Engineer,;HCMUTE+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
-
-
 <br>
 
-
-
-	
 <!--About Me-->
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a `Junior` at [School of Cyber Science and Technology](https://cst.buaa.edu.cn/) in [BUAA](https://ev.buaa.edu.cn/)
-- :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
-- :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
-- :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com)
-- :nerd_face: Always believe `"You are what you loved"`
-
-<br>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://avatars.githubusercontent.com/u/120746301?v=4"><br><br>
+- :school: I am a `Junior` at [Ho Chi Minh City University of Education and Technology](https://hcmute.edu.vn/)
+- :trophy: FIRST PRIZE `HCMUTE HACKATHON 2025` 
+- :technologist: **Currently working on** `AI Engineer` **&** `Data Science`
+- :boom: You can visit [MY GITHUB](https://github.com/SweetLove1643) for some AI knowledge
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](Sweetlove:phanuan028@gmail.com)
+- :nerd_face: Always believe `"Sports is about constantly giving up"`
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
