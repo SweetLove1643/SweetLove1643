@@ -123,17 +123,35 @@
 <br>
 
 <!----- Contribution Streak ------>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Contribution Stats :
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Contribution Stats
 
-<div align="center">
-  <p>
-    <img align="center"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=SweetLove1643&theme=dark"
-         alt="SweetLove1643" />
-  </p>
-</div>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=SweetLove1643&theme=dark&hide_border=true"
+    alt="SweetLove1643 GitHub Streak"
+  />
+</p>
 
 <hr style="height:2px;border-width:1;border-radius:5px;color:#8080ff;background-color:#8080ff">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> General Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-phi-beige-43.vercel.app/api?username=SweetLove1643&show_icons=true&theme=dark&hide_border=true"
+    alt="SweetLove1643 GitHub Stats"
+  />
+</p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Top Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-phi-beige-43.vercel.app/api/top-langs/?username=SweetLove1643&layout=compact&theme=dark&hide_border=true"
+    alt="SweetLove1643 Top Languages"
+  />
+</p>
+
 
 <!----- Repository Overview ------>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Repository Overview :
