@@ -123,15 +123,14 @@
 <br>
 
 <!----- Contribution Streak ------>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Contribution Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/> Contribution Streak
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=SweetLove1643&theme=dark&hide_border=true"
-    alt="SweetLove1643 GitHub Streak"
+    alt="SweetLove1643 GitHub Contribution Streak"
   />
 </p>
-
 <hr style="height:2px;border-width:1;border-radius:5px;color:#8080ff;background-color:#8080ff">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> General Stats
